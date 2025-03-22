@@ -13,4 +13,5 @@
 9. [Lab 9](https://github.com/MrHumidum/kfu9) - Наследование в C#.
 10. [Lab 10](https://github.com/MrHumidum/kfu10) - Отношения между классами и объектами в C#. Делегаты и события.
 11. [Lab 11](https://github.com/MrHumidum/kfu11) - Свойства, индексаторы, атрибуты.
-12. [Lab 12](https://github.com/MrHumidum/kfu12) - ???.
+12. [Lab 12](https://github.com/MrHumidum/kfu12) - Windows Forms.
+13. [Lab 13](https://github.com/MrHumidum/kfu13) - Командная работа.
